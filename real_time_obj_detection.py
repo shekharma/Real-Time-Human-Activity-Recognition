@@ -83,12 +83,6 @@ size = (int(cap.get(cv.CAP_PROP_FRAME_WIDTH)), int(cap.get(cv.CAP_PROP_FRAME_HEI
 # save_path = r'input_save_2.mp4'
 out = cv.VideoWriter(f'D:/Downloads/output_{x}.mp4',cv.VideoWriter_fourcc(*'mp4v'), 10, (size)) #create a video format to save processed frames into it
 
-
-#cap = cv.VideoCapture(r'E:\Naveen_Test_File\BT Office recoridng Linear Regression\BT_Real_video\a1.mp4')
-#cap = cv.VideoCapture(r'E:\Naveen_DT\BT Videos\Cam1.mp4')
-#cap = cv.VideoCapture(r'E:\Naveen_DT\BT Videos\Cam1.mp4')
-#cap = cv.ImageCapture(r'C:\Users\i3D Lab\Pictures\Screenshots\Screenshot (75)')
-
 #setting camera resolution
 # cap.set(cv.CAP_PROP_FRAME_WIDTH, 1920)
 # cap.set(cv.CAP_PROP_FRAME_HEIGHT, 1080)
