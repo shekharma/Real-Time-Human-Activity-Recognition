@@ -11,3 +11,5 @@ Human activity recognition is combination pose estimation using keypoints and la
 ![IMG_20240417_212249720~3](https://github.com/shekharma/Real-Time-Human-Activity-Recognition/assets/122733304/8bb5802b-5b23-43ce-ae97-c908ff821a4b)
  3. By using same approach I calculated ankle-knee, knee-hip, hip-shoulder, wrist-elbow and elbow-shoulder inclination angles to recognize the activity.
 
+By analyzing the distribution of angles for a particular activities, I passed them through a coditional loop to recognize the activity.
+You can see the results with activity name in upper left corner in the activity_output.mp4 files. 
