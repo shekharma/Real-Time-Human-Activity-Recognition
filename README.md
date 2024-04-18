@@ -1,6 +1,7 @@
 # Real-Time-Human-Activity-Recognition
 Human activity recognition is combination pose estimation using keypoints and landmarks and classify them into their categories like sitting, standing or laying etc. 
-### Objective: Classification of human action form recorded video as well as in real-time
+### Objective: 
+Classification of human action form recorded video as well as in real-time
 
 ### Library :
   1.  OpenCV
@@ -13,3 +14,7 @@ Human activity recognition is combination pose estimation using keypoints and la
 
 By analyzing the distribution of angles for a particular activities, I passed them through a coditional loop to recognize the activity.
 You can see the results with activity name in upper left corner in the activity_output.mp4 files. 
+
+
+### Reference
+  -  https://github.com/google/mediapipe
