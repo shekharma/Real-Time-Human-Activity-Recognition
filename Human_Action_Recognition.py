@@ -43,11 +43,7 @@ def line_draw():
     cv2.line(image, (l_elbow_x, l_elbow_y), (l_shldr_x, l_shldr_y), green, 4)
     cv2.line(image, (l_elbow_x, l_elbow_y), (l_elbow_x, l_elbow_y - 100), green, 4)
 
-# =============================CONSTANTS and INITIALIZATIONS=====================================#
-# Initilize frame counters.
-#good_frames = 0
-#bad_frames = 0
-
+# =============================CONSTANTS and INITIALIZATIONS===================================== #
 # Font type.
 font = cv2.FONT_HERSHEY_SIMPLEX
 
