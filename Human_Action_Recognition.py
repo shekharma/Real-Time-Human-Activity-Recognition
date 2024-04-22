@@ -45,8 +45,8 @@ def line_draw():
 
 # =============================CONSTANTS and INITIALIZATIONS=====================================#
 # Initilize frame counters.
-good_frames = 0
-bad_frames = 0
+#good_frames = 0
+#bad_frames = 0
 
 # Font type.
 font = cv2.FONT_HERSHEY_SIMPLEX
