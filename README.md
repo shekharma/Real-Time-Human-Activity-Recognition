@@ -15,7 +15,8 @@ Classification of human action form recorded video as well as in real-time
 By analyzing the distribution of angles for a particular activities, I passed them through a coditional loop to recognize the activity.
 You can see the results with activity name in upper left corner in the activity_output.mp4 files. 
 
-[Human_Activity_Recognition.pptx](https://github.com/shekharma/Real-Time-Human-Activity-Recognition/files/15141400/Human_Activity_Recognition.pptx)
+[Human_Activity_Recognition.pptx](https://github.com/shekharma/Real-Time-Human-Activity-Recognition/files/15141449/Human_Activity_Recognition.pptx)
+
 
 ### Reference
   -  https://github.com/google/mediapipe
